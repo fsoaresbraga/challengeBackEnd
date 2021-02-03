@@ -46,7 +46,7 @@ Run the database seeder and you're done
   
   `http://127.0.0.1:8000/api/users`
   
-![alt text](http://mejormicroondas.online/images/store-user.jpg)
+![alt text](http://mejormicroondas.online/images/store-users.jpg)
 
 - List Users
 
