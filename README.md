@@ -5,7 +5,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-`git clone git@github.com:fsoaresbraga/challengeBackEnd.git`
+`git clone https://github.com/fsoaresbraga/challengeBackEnd.git`
 
 Switch to the repo folder
 
