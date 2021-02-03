@@ -256,7 +256,7 @@ class MovementController extends Controller
             $csv->insertOne(["SALDO TOTAL\r\n"]);
             $csv->insertOne([array_sum($movementsBalance)]);
         
-            $csv->output('usuarios.csv');  
+            $csv->output('Movimentação-'.Carbon::parse(now())->format('d-m-Y h-i-s').'.csv');  
         }
     }
 }
